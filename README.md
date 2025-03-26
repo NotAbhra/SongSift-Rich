@@ -31,7 +31,7 @@
 3. Install the required Python packages:
 
    ```bash
-   pip install spotipy rich
+   pip install -r requirements.txt
    ```
 
 4. Replace the placeholder `client_id` and `client_secret` in the code with your own Spotify credentials.
